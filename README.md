@@ -22,7 +22,7 @@
 
 During my studies in ESTIN as a 2CP student , i would like to share all my projects in this semester :)
 ### Built With
-* [![Laravel][Laravel.com]][Laravel-url]
+* [![Python][Python.com]][Python-url]
 
 
 
